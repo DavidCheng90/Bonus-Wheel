@@ -23,6 +23,4 @@ A simple, spin-the-wheel game with prizes.
 
 4.) Open the extracted folder.
 
-5.) Open the "proj.win32" folder.
-
-6.) Open "BonusWheel3.sln" file to view source code.
+5.) Open "BonusWheel3.sln" file to view source code.
